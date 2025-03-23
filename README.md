@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Xiomara and this is my GD107 Midterm 👋
 
 <!--
 **xram3827/xram3827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
