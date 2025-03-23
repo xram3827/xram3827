@@ -1,0 +1,17 @@
+body {
+    background-color: #c5cae9;
+    font-family: 'Times New Roman', serif;
+}
+
+header {
+    background-color: #052111;
+    color: darkgreen;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: #052111;
+    color: darkgreen;
+    padding: 10px;
+}
