@@ -1,3 +1,4 @@
+/* Reset default styling */
 * {
     margin: 0;
     padding: 0;
@@ -7,14 +8,16 @@
 /* Body Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #FFFFFF;
-    color: #FFFFFF;
+    background-color: #D5B893;
+    color: #D5B893;
 }
 
+/* Header Styling */
 header {
-    background-color: #052111;
-    color: darkgreen;
-    padding: 20px;
+    background-color: #052111; /*  darkgreen background */
+    color: #977307;
+    text-align: center;
+    padding: 40px 0; /* Padding for more height */
 }
 
 header h1 {
@@ -94,6 +97,26 @@ main {
 .music p {
     font-size: 16px;
     color: #666;
+}
+
+/* Scroll-to-Top Button */
+#scrollTopBtn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #bb0a1e;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    display: block; /* Initially hidden */
+    transition: background-color 0.3s ease;
+}
+
+#scrollTopBtn:hover {
+    background-color: #f1c40f;
 }
 
 /* Footer Styling */
