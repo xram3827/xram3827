@@ -8,13 +8,13 @@
 /* Body and Background */
 body {
     font-family: 'Arial', sans-serif;
-    color: #fff;
-    background-color: #1a1a1a;
+    color: #D5B893;
+    background-color: #D5B893;
 }
 
 /* Header Styles */
 header {
-    background-color: #333;
+    background-color: #6F4D38;
     padding: 20px 0;
     text-align: center;
 }
@@ -22,7 +22,7 @@ header {
 header h1 {
     font-size: 3rem;
     margin-bottom: 10px;
-    color: #fff;
+    color: #662424;
 }
 
 nav ul {
@@ -55,7 +55,7 @@ nav ul li a:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: #6F4D38;
 }
 
 .hero-content h2 {
